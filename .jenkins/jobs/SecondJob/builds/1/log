@@ -1,0 +1,12 @@
+Started by upstream project "[8mha:////4Lh9zs4xSZ/kZqv6j/+jaACW3xClGAsDolG7xd0Hd62MAAAAmR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyOEgY+/az8JH23zKLiEi8gAwCiWFNywwAAAA==[0mFirstJob" build number [8mha:////4OStYBiG9VLAc59eErapSxR68TX7E2vpG2S25uT2RvQSAAAAmR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLQIwSBn79rPwkfbfMouISLyDDCADdI1RSxAAAAA==[0m2
+originally caused by:
+ Started by timer
+Running as SYSTEM
+Building in workspace C:\Users\HP\.jenkins\workspace\SecondJob
+[SecondJob] $ cmd /c call C:\Users\HP\AppData\Local\Temp\jenkins2323033235563476526.bat
+
+C:\Users\HP\.jenkins\workspace\SecondJob>cd
+C:\Users\HP\.jenkins\workspace\SecondJob
+
+C:\Users\HP\.jenkins\workspace\SecondJob>exit 0 
+Finished: SUCCESS

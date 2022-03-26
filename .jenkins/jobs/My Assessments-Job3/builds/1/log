@@ -1,0 +1,10 @@
+Started by remote host [0:0:0:0:0:0:0:1]
+Running as SYSTEM
+Building in workspace C:\Users\HP\.jenkins\workspace\My Assessments-Job3
+[My Assessments-Job3] $ cmd /c call C:\Users\HP\AppData\Local\Temp\jenkins9324942600147477980.bat
+
+C:\Users\HP\.jenkins\workspace\My Assessments-Job3>cd
+C:\Users\HP\.jenkins\workspace\My Assessments-Job3
+
+C:\Users\HP\.jenkins\workspace\My Assessments-Job3>exit 0 
+Finished: SUCCESS

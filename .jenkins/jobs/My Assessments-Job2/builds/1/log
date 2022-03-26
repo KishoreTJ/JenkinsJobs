@@ -1,0 +1,12 @@
+Started by upstream project "[8mha:////4EKu7i+PLU6ukH2MCSK2K+9mpMwH2Re0D1Mw2tTGQ9PXAAAApx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzhEgZp/az8JH3fSlUjA8fi4tTi4tzUvJJiXa/8JEN9AM/WufjQAAAA[0mMy Assessments-Job1" build number [8mha:////4Iit1ExuCJo20T3WkX1Dvdg5SHTwkN48bk078rvRKitkAAAApx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLQIwSBhn9rPwkfd9KVSMDx+Li1OLi3NS8kmJdr/wkQ30jALuyDMbRAAAA[0m2
+originally caused by:
+ Started by timer
+Running as SYSTEM
+Building in workspace C:\Users\HP\.jenkins\workspace\My Assessments-Job2
+[My Assessments-Job2] $ cmd /c call C:\Users\HP\AppData\Local\Temp\jenkins9207314515058025168.bat
+
+C:\Users\HP\.jenkins\workspace\My Assessments-Job2>cd
+C:\Users\HP\.jenkins\workspace\My Assessments-Job2
+
+C:\Users\HP\.jenkins\workspace\My Assessments-Job2>exit 0 
+Finished: SUCCESS

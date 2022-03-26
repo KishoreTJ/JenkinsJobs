@@ -1,0 +1,11 @@
+Started by timer
+Running as SYSTEM
+Building in workspace C:\Users\HP\.jenkins\workspace\My Assessments-Job1
+[My Assessments-Job1] $ cmd /c call C:\Users\HP\AppData\Local\Temp\jenkins6981698003516025406.bat
+
+C:\Users\HP\.jenkins\workspace\My Assessments-Job1>cd
+C:\Users\HP\.jenkins\workspace\My Assessments-Job1
+
+C:\Users\HP\.jenkins\workspace\My Assessments-Job1>exit 0 
+Triggering a new build of [8mha:////4GYSEFLmNIrOwehLhhC1DQ4qke4J4W1uPZhMgGXK7cXcAAAApx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzhEgZp/az8JH3fSlUjA8fi4tTi4tzUvJJiXa/8JCN9AAyFlNPQAAAA[0mMy Assessments-Job2
+Finished: SUCCESS
